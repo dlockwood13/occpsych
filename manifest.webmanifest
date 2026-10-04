@@ -1,0 +1,76 @@
+{
+ "id": "./",
+ "name": "OccPsych: Occupational Psychology Study Hub",
+ "short_name": "OccPsych",
+ "description": "MSc-level occupational psychology across the seven BPS areas, with FSRS spaced repetition, interleaved quizzes and confidence calibration. Works offline.",
+ "lang": "en-GB",
+ "dir": "ltr",
+ "start_url": "./#/today",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#F4F5F8",
+ "theme_color": "#2B47B5",
+ "categories": [
+  "education",
+  "productivity"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Review cards",
+   "short_name": "Review",
+   "url": "./#/review",
+   "icons": [
+    {
+     "src": "shortcut-96.png",
+     "sizes": "96x96",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Quick 5",
+   "short_name": "Quick 5",
+   "url": "./#/quick",
+   "icons": [
+    {
+     "src": "shortcut-96.png",
+     "sizes": "96x96",
+     "type": "image/png"
+    }
+   ]
+  },
+  {
+   "name": "Quiz",
+   "short_name": "Quiz",
+   "url": "./#/quiz",
+   "icons": [
+    {
+     "src": "shortcut-96.png",
+     "sizes": "96x96",
+     "type": "image/png"
+    }
+   ]
+  }
+ ]
+}
